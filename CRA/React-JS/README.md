@@ -1,18 +1,17 @@
 # React + JS Template
 
-### 1. Install version 18 of node
-
-```bash
-nvm install 18
-echo 18 > .nvmrc
-nvm use
-```
-
-### 2. Init project
+### 1. Init project
 
 ```bash
 npx create-react-app .
 npm i
+```
+
+### 2. Install version 18 of node
+
+```bash
+asdf install nodejs 18.20.5
+asdf set nodejs 18.20.5
 ```
 
 ### 3. Init git
